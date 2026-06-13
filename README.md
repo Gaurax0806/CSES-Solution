@@ -25,9 +25,15 @@ Completed: **14 Problems**
 
 ### Sorting and Searching
 
-Completed: **1 Problem**
+Completed: **7 Problem**
 
 - Distinct Numbers
+- Apartments
+- Ferris Wheel
+- Concert Tickets
+- Restaurant Customers
+- Movie Festival
+- Sum of Two Values
 
 ## Language
 
