@@ -24,6 +24,10 @@
 - Chessboard and Queens
 - Raab Game I
 - Mex Grid Construction
+- Knight_Moves_Grid.cpp
+- Grid_Coloring_I.cpp
+- Digit_Queries.cpp
+- String_Reorder.cpp
 
 ### Sorting and Searching (13)
 - Distinct Numbers
